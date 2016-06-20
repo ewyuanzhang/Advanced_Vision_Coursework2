@@ -4,7 +4,7 @@ The 2rd coursework of Advanced Vision (UoE, 2016)
 Course homepage:　http://www.inf.ed.ac.uk/teaching/courses/av/
 
 ## Task Description
-In brief, the task is to rebuild a 3D scene by 16 views captured by a Kinect depth sensor. Steps are: 
+In brief, the task is to rebuild a 3D scene by 16 views captured by a Kinect depth sensor. Objects in the scene are a 9-plane-cube surrounded by 3 spheres. Subtasks are: 
 
 1. Extract and remove the ground plane from the image data
 2. Extract and describe the 3 spheres
