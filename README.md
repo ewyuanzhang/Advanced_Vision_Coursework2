@@ -14,11 +14,15 @@ In brief, the task is to rebuild a 3D scene by 16 views captured by a Kinect dep
 
 Details are shown in prac21516.pdf. 
 
+## Data
+
+The data of 16 views can be downloaded from http://homepages.inf.ed.ac.uk/rbf/AVDATA/AV216DATA/av_pcl.mat .
+
 ## Files
 - ./functions/*.m: Functions used in this coursework. fscatter32.m, plotpcl.m, sphereFit.m and sphereFit test.m are provided by the lecturer. 
 - ass_2_f1.m: Script of background extraction
 - ass_2_f2.m: Script of registration
 - ass_2_f3.m: Script of object plane extraction
 - ass_2_f4.m: Script of object model building
-- av_pcl.mat: Data of the 16 image and range data
 - prac21516.pdf: Description of the coursework
+
