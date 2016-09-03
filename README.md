@@ -24,3 +24,6 @@ The data of 16 views can be downloaded from http://homepages.inf.ed.ac.uk/rbf/AV
 - [ass_2_f4.m](https://github.com/getchaz/Advanced_Vision_Coursework2/blob/master/ass_2_f4.m): Script of object model building
 - [prac21516.pdf](https://github.com/getchaz/Advanced_Vision_Coursework2/blob/master/prac21516.pdf): Description of the coursework
 
+## Authors
+- Yuan Zhang - zhyuan0702@gmail.com
+- Alexandru Cojocaru - cojocaru.alex3010@gmail.com
