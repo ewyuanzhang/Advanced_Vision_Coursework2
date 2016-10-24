@@ -2,7 +2,19 @@
 The 2rd coursework of [Advanced Vision](http://www.inf.ed.ac.uk/teaching/courses/av/) (UoE, 2016)
 
 ## Task Description
-In brief, the task is to rebuild a 3D scene by 16 views captured by a Kinect depth sensor. Objects in the scene are a 9-plane-cube surrounded by 3 spheres. Subtasks are: 
+In brief, the task is to rebuild a 3D scene by 16 views captured by a Kinect depth sensor. Objects in the scene are a 9-plane-cube surrounded by 3 spheres. 
+
+#### Input
+Intensity and 3D range data of 16 views around the cube and the balls. The visulization of one of the views is shown below. 
+
+![image](https://github.com/getchaz/Advanced_Vision_Coursework2/blob/master/images/input.png) 
+
+#### Output
+A 3D model of the cube. 
+
+![image](https://github.com/getchaz/Advanced_Vision_Coursework2/blob/master/images/output.png) 
+
+Subtasks are: 
 
 1. Extract and remove the ground plane from the image data
 2. Extract and describe the 3 spheres
